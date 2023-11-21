@@ -1,0 +1,92 @@
+{"frames": {
+
+"announce-finish.png":
+{
+	"frame": {"x":0,"y":0,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+"announce-start.png":
+{
+	"frame": {"x":266,"y":0,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+"parchment-end.png":
+{
+	"frame": {"x":532,"y":0,"w":256,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":6},
+	"sourceSize": {"w":256,"h":6}
+},
+"parchment-seg.png":
+{
+	"frame": {"x":0,"y":138,"w":256,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":38},
+	"sourceSize": {"w":256,"h":38}
+},
+"parchment-start.png":
+{
+	"frame": {"x":266,"y":138,"w":256,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":6},
+	"sourceSize": {"w":256,"h":6}
+},
+"sound-off-hover.png":
+{
+	"frame": {"x":532,"y":138,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"sound-off-normal.png":
+{
+	"frame": {"x":562,"y":138,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"sound-on-hover.png":
+{
+	"frame": {"x":592,"y":138,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"sound-on-normal.png":
+{
+	"frame": {"x":622,"y":138,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"title-card.png":
+{
+	"frame": {"x":0,"y":186,"w":1024,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":512},
+	"sourceSize": {"w":1024,"h":512}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites_main.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":698},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac3bd22110703de0faa71821994e0bd8:a6e7b528336e4da8e0ed5ae7d4e0dcea:c2932c4bceffe44c598dfb54d7ecacf2$"
+}
+}

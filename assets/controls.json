@@ -1,0 +1,164 @@
+{"frames": {
+
+"button-back.png":
+{
+	"frame": {"x":10,"y":10,"w":256,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":128},
+	"sourceSize": {"w":256,"h":128}
+},
+"button-close-hover.png":
+{
+	"frame": {"x":276,"y":10,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"button-close-normal.png":
+{
+	"frame": {"x":318,"y":10,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"button-main-hover.png":
+{
+	"frame": {"x":360,"y":10,"w":160,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":64},
+	"sourceSize": {"w":160,"h":64}
+},
+"button-main-normal.png":
+{
+	"frame": {"x":530,"y":10,"w":160,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":64},
+	"sourceSize": {"w":160,"h":64}
+},
+"cleanup.png":
+{
+	"frame": {"x":700,"y":10,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"loading-0.png":
+{
+	"frame": {"x":774,"y":10,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"loading-1.png":
+{
+	"frame": {"x":912,"y":10,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"loading-2.png":
+{
+	"frame": {"x":1050,"y":10,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"loading-3.png":
+{
+	"frame": {"x":1188,"y":10,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"loading-4.png":
+{
+	"frame": {"x":1326,"y":10,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"loading-5.png":
+{
+	"frame": {"x":1464,"y":10,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"loading-6.png":
+{
+	"frame": {"x":1602,"y":10,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"loading-7.png":
+{
+	"frame": {"x":1740,"y":10,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+"padlock-closed.png":
+{
+	"frame": {"x":1878,"y":10,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"padlock-open.png":
+{
+	"frame": {"x":1908,"y":10,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"panel-cleanup.png":
+{
+	"frame": {"x":10,"y":148,"w":624,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":624,"h":172},
+	"sourceSize": {"w":624,"h":172}
+},
+"panel-rename.png":
+{
+	"frame": {"x":644,"y":148,"w":628,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":628,"h":206},
+	"sourceSize": {"w":628,"h":206}
+},
+"panel-withdraw.png":
+{
+	"frame": {"x":1282,"y":148,"w":624,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":624,"h":172},
+	"sourceSize": {"w":624,"h":172}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "controls.png",
+	"format": "RGBA8888",
+	"size": {"w":1938,"h":364},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fa576e6f6f255b15c2e8279e14ee45eb:569a50c1ab64d807f9c18140864c3a23:13db50ae431b1c60d076cd518d6333b1$"
+}
+}

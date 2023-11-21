@@ -1,0 +1,164 @@
+{"frames": {
+
+"rain-back-5.png":
+{
+	"frame": {"x":3,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-back-6.png":
+{
+	"frame": {"x":131,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-back-7.png":
+{
+	"frame": {"x":259,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-back-8.png":
+{
+	"frame": {"x":387,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-empty.png":
+{
+	"frame": {"x":515,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-front-1.png":
+{
+	"frame": {"x":643,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-front-2.png":
+{
+	"frame": {"x":771,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-front-3.png":
+{
+	"frame": {"x":899,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-front-4.png":
+{
+	"frame": {"x":1027,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"rain-front-5.png":
+{
+	"frame": {"x":1155,"y":3,"w":128,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":512},
+	"sourceSize": {"w":128,"h":512}
+},
+"wave-windy-0.png":
+{
+	"frame": {"x":1283,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"wave-windy-1.png":
+{
+	"frame": {"x":1347,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"wave-windy-2.png":
+{
+	"frame": {"x":1411,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"wave-windy-3.png":
+{
+	"frame": {"x":1475,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"wave-windy-4.png":
+{
+	"frame": {"x":1539,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"wave-windy-5.png":
+{
+	"frame": {"x":1603,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"wave-windy-6.png":
+{
+	"frame": {"x":1667,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"wave-windy-7.png":
+{
+	"frame": {"x":1731,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+},
+"wave-windy-8.png":
+{
+	"frame": {"x":1795,"y":3,"w":64,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":32},
+	"sourceSize": {"w":64,"h":32}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "weather.png",
+	"format": "RGBA8888",
+	"size": {"w":1862,"h":518},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dd8232b405d8b5ff27865ea5ac5da1c2:dfb301059551b35c27a384e42a0d27d2:d9aa4d6769f087914a504227c181f138$"
+}
+}
